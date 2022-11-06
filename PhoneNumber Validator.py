@@ -1,6 +1,6 @@
 """
 Phone Number Validatot Simple Algorithm 
-Aurthor = Prakamya Khare
+Author = Prakamya Khare
 """
 def function_check(number):
 	st = str(number)
